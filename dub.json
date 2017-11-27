@@ -1,0 +1,9 @@
+{
+	"name": "gemma_datasets",
+	"authors": [
+		"Prasun Anand"
+	],
+	"description": "Datasets to test gemma faster_lmm_d interface",
+	"copyright": "Copyright © 2017, Prasun Anand",
+	"license": "GPL-3.0"
+}
