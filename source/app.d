@@ -3,7 +3,7 @@ import std.random;
 
 void main()
 {
-  int size = 1000;
+  int size = 5000;
   //kinship_generate(size);
   //pheno_generate(size);
   //indicator_idv_generate(size);
